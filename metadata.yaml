@@ -1,0 +1,47 @@
+_repo: Maroussia_69301
+_version: 0.0.1
+contributor:
+  engineer:
+    agent_name: Pannemaker, François
+    gutenberg_agent_id: '55204'
+    url: http://www.gutenberg.org/2009/agents/55204
+  illustrator:
+    agent_name: Shuler, Théophile
+    gutenberg_agent_id: '55203'
+    url: http://www.gutenberg.org/2009/agents/55203
+creator:
+  authors:
+  - agent_name: Stahl, P.-J.
+    aliases:
+    - Stahl, P. J.
+    - Stahl, Pierre Jules
+    birthdate: 1814
+    deathdate: 1886
+    gutenberg_agent_id: '38253'
+    url: http://www.gutenberg.org/2009/agents/38253
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Pierre-Jules_Hetzel
+    - https://fr.wikipedia.org/wiki/Pierre-Jules_Hetzel
+  - agent_name: Wovzog, Marko
+    gutenberg_agent_id: '55202'
+    url: http://www.gutenberg.org/2009/agents/55202
+description: ''
+gutenberg_issued: '2022-11-06'
+identifiers:
+  gutenberg: '69301'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k65518515/f10.double
+pgterms:marc905: 20220409080417wovzog
+pgterms:marc906: '1880'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: 'France: J. Hetzel et Cie,1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Maroussia
+url: http://www.gutenberg.org/ebooks/69301
