@@ -9,6 +9,9 @@ contributor:
     agent_name: Shuler, Théophile
     gutenberg_agent_id: '55203'
     url: http://www.gutenberg.org/2009/agents/55203
+covers:
+- cover_type: archival
+  image_path: 69301-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Stahl, P.-J.
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '55202'
     url: http://www.gutenberg.org/2009/agents/55202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69301#Maroussia
 gutenberg_issued: '2022-11-06'
 identifiers:
   gutenberg: '69301'
